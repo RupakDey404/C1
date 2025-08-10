@@ -1,4 +1,4 @@
-//ROTATE AN ARRAY LEFT TO RIGHT BY K th POSITION.
+//ROTATE AN ARRAY TO THE LEFT BY X th POSITION
 #include<stdio.h>
 int main(){
     int arr[]={10,20,30,40,50,60};
@@ -18,4 +18,5 @@ int main(){
         printf("%d ",arr2[i]);
     }
     printf("\n");
+
 }
